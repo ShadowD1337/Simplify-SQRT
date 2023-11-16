@@ -1,0 +1,15 @@
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\bin\Debug\net6.0\Simplify sqrt.exe
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\bin\Debug\net6.0\Simplify sqrt.deps.json
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\bin\Debug\net6.0\Simplify sqrt.runtimeconfig.json
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\bin\Debug\net6.0\Simplify sqrt.dll
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\bin\Debug\net6.0\Simplify sqrt.pdb
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.csproj.AssemblyReference.cache
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.AssemblyInfoInputs.cache
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.AssemblyInfo.cs
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.csproj.CoreCompileInputs.cache
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.dll
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\refint\Simplify sqrt.dll
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.pdb
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\Simplify sqrt.genruntimeconfig.cache
+C:\Users\Shadow Dragon\source\repos\Simplify sqrt\Simplify sqrt\obj\Debug\net6.0\ref\Simplify sqrt.dll
